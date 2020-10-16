@@ -73,7 +73,7 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 
 </p>
 
-## My Projects:
+## My Projects🌟:
 
 <div align=center>
 
