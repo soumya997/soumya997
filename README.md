@@ -24,9 +24,9 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h1> 🛠 &nbsp;Tech Stack</h1>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
