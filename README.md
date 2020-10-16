@@ -3,7 +3,7 @@
 
 <br>
 
-### Hi there 👋😃
+# Hi there 👋😃
 
 This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree in Electrical Engineering from Institute of Engineering and Management, Kolkata. I am a <em>Data Science enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em>, I <em>love kaggling</em> and a self proclaimed <em>memer<em>.
@@ -59,7 +59,7 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 <br>
 
 
-### Github Activity:
+# Github Activity📊:
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumya997&theme=buefy&show_icons=true" />
@@ -73,7 +73,7 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 
 </p>
 
-## My Projects🌟:
+# My Projects🌟:
 
 <div align=center>
 
