@@ -99,6 +99,8 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 ![](https://visitor-badge.glitch.me/badge?page_id=soumya997.soumya997)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-soumyadip-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/soumya9977)](https://www.kaggle.com/soumya9977)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@soumya997.sarkar)
+[![Gmail](https://img.shields.io/badge/-soumyadip-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:soumya997.sarkar@gmail.com)
+
 
 <br>
 
