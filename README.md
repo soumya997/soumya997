@@ -98,6 +98,7 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 ![GitHub followers](https://img.shields.io/github/followers/soumya997?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=soumya997.soumya997)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-soumyadip-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/soumya9977)](https://www.kaggle.com/soumya9977)
+[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@soumya997.sarkar)
 
 <br>
 
