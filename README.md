@@ -77,13 +77,13 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 
 <div align=center>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Music-Generation-Using-Deep-Learning&theme=material-palenight)](https://github.com/soumya997/Music-Generation-Using-Deep-Learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Music-Generation-Using-Deep-Learning&theme=light)](https://github.com/soumya997/Music-Generation-Using-Deep-Learning)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=SIIM-ISIC-Melanoma-classification-Kaggle-challange&theme=material-palenight)](https://github.com/soumya997/SIIM-ISIC-Melanoma-classification-Kaggle-challange)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=SIIM-ISIC-Melanoma-classification-Kaggle-challange&theme=light)](https://github.com/soumya997/SIIM-ISIC-Melanoma-classification-Kaggle-challange)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Face-Mask-Detection-Using-Deep-Learning&theme=material-palenight)](https://github.com/soumya997/Face-Mask-Detection-Using-Deep-Learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Face-Mask-Detection-Using-Deep-Learning&theme=light)](https://github.com/soumya997/Face-Mask-Detection-Using-Deep-Learning)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=AI-Hacktoberfest&theme=material-palenight)](https://github.com/dsc-iem/AI-Hacktoberfest)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=AI-Hacktoberfest&theme=light)](https://github.com/dsc-iem/AI-Hacktoberfest)
 
 
 
