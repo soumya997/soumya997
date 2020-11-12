@@ -13,7 +13,7 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 - I have done different projects on **Computer Vision** and **NLP**. 
 - I love working with data. I have worked with tabular too.  **I can make your data talk**.
 - I am learning **Data Structure and Algorithms**,**ML model deployment**.
-- have model deployment projects
+- Have done model deployment projects
 - I have worked with docker
 - I have have knowledge about GCP
 
