@@ -34,9 +34,6 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=563D7C)
   ![StreamLit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit&logoColor=563D7C)
   
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MySQL](https://img.shields.io/badge/-PowerBi-333333?style=flat&logo=powerbi)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
