@@ -74,6 +74,11 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 
 </div>
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Soumyadip Spotify Playing" width="350" />](https://open.spotify.com/user/ui00gfzdihvvsfa8fql20hiz2)
+
+
+
 # Connect ith Me:
 
 <br>
