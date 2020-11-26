@@ -79,7 +79,7 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 
 <br>
 
-<a href="https://twitter.com/Soumya997Sarkar"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/akshawz?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@Soumya997Sarkar"></a>
+<a href="https://twitter.com/Soumya997Sarkar"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Soumya997Sarkar?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@Soumya997Sarkar"></a>
 <a href="https://www.linkedin.com/in/soumyadip-sarkar-173901183/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xtenzq" width="22px" />
 ![GitHub followers](https://img.shields.io/github/followers/soumya997?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=soumya997.soumya997)
