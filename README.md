@@ -15,7 +15,7 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 - I am learning **Data Structure and Algorithms**,**ML model deployment**.
 - Have done model deployment projects
 - I have worked with docker
-- I have have knowledge about GCP
+- I am familiar with GCP
 
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
