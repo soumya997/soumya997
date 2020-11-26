@@ -81,9 +81,9 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 
 <a href="https://twitter.com/Soumya997Sarkar"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Soumya997Sarkar?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@Soumya997Sarkar"></a>
 <a href="https://www.linkedin.com/in/soumyadip-sarkar-173901183/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xtenzq" width="22px" />
-![GitHub followers](https://img.shields.io/github/followers/soumya997?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=soumya997.soumya997)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-soumyadip-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/soumya9977)](https://www.kaggle.com/soumya9977)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/soumya997?color=green&logo=github&style=for-the-badge">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/soumya997/soumya997?color=yellow&style=for-the-badge">
+[![Kaggle](https://img.shields.io/badge/-soumyadip-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/soumya9977)](https://www.kaggle.com/soumya9977)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@soumya997.sarkar)
 [![Gmail](https://img.shields.io/badge/-soumyadip-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:soumya997.sarkar@gmail.com)
 
