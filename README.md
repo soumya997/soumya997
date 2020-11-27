@@ -5,9 +5,9 @@
 
 # Hi there 👋😃
 
-This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree in Electrical Engineering from Institute of Engineering and Management, Kolkata. I am a <em>Data Science enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em>, I <strong><em>love kaggling</em></strong> and a <strong>self proclaimed <em>MEMER<em></strong>.
-
+This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree in Electrical Engineering from Institute of Engineering and Management, Kolkata. I want to be a <em>Data Scientist/ML/DL Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em>, I <strong><em>love kaggling</em></strong> and <strong>making <em>memes<em></strong>.
+ 
 - In spite of pursuing a non-cs stream I have **keen interest in coding**.
 - I have worked on general **Machine Learning** and **Deep Learning**.
 - I have done different projects on **Computer Vision** and **NLP**. 
