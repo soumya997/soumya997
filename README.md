@@ -87,8 +87,10 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 
 
 <br>
-#  My Resume:
-[![Resume](https://img.shields.io/badge/View-My%20Resume-blueviolet)](https://drive.google.com/file/d/1TXXxlHef2bXz-cSOeRUwOOglgY_sRldg/view)
+
+# My Resume😃:
+
+[![Resume](https://img.shields.io/badge/View-My%20Resume-blueviolet??style=for-the-badge&logo=appveyor&?logoWidth=400)](https://drive.google.com/file/d/1TXXxlHef2bXz-cSOeRUwOOglgY_sRldg/view)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
