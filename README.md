@@ -53,12 +53,12 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 # Github Activity📊:
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumya997&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya997&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumya997&theme=shades-of-purple&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya997&theme=shades-of-purple&layout=compact" />
 </a>
 
 
-
+buefy
 </p>
 
 # My Projects🌟:
