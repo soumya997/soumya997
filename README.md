@@ -81,6 +81,5 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@soumya997.sarkar)
 [![Gmail](https://img.shields.io/badge/-soumyadip-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:soumya997.sarkar@gmail.com)
 
-
 <br>
 
