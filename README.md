@@ -41,10 +41,11 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-Notebook-333333?style=flat&logo=jupyter-notebook&logoColor=2C2255)
+  ![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebook-JN-red)
 - 🖥 &nbsp;
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
     ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
+    ![PyTorch](https://img.shields.io/badge/-pytorch-333333?style=flat&logo=pytorch)
     
       
 <br>
