@@ -84,11 +84,3 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 
 <br>
 
-
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/soumya997/count.svg" alt="" /></td>
-  </tr>
-</table>
-
