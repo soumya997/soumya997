@@ -71,7 +71,7 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 
 </div>
 
-# Connect ith Me:
+# Connect with Me:
 
 <br>
 
