@@ -54,8 +54,8 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 # Github Activity📊:
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="github-readme-stats-nine-sandy.vercel.app/api?username=soumya997&theme=shades-of-purple&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya997&theme=shades-of-purple&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-nine-sandy.vercel.app/api?username=soumya997&theme=shades-of-purple&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-nine-sandy.vercel.app/api/top-langs/?username=soumya997&theme=shades-of-purple&layout=compact" />
 </a>
 
 
@@ -66,9 +66,9 @@ This is **Soumyadip Sarkar** currently in 3rd year pursuing my bachelors degree 
 
 <div align=center>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Music-Generation-Using-Deep-Learning&theme=shades-of-purple)](https://github.com/soumya997/Music-Generation-Using-Deep-Learning)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=SIIM-ISIC-Melanoma-classification-Kaggle-challenge&theme=shades-of-purple)](https://github.com/soumya997/SIIM-ISIC-Melanoma-classification-Kaggle-challenge)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Face-Mask-Detection-Using-Deep-Learning&theme=shades-of-purple)](https://github.com/soumya997/Face-Mask-Detection-Using-Deep-Learning)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Joke-Generation-Using-MinGPT-with-tensorflow-2.0&theme=shades-of-purple)](https://github.com/soumya997/Joke-Generation-Using-MinGPT-with-tensorflow-2.0)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Virtual-Doc&theme=shades-of-purple)](https://github.com/soumya997/Virtual-Doc)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Resume-analyzer&theme=shades-of-purple)](https://github.com/soumya997/Resume-analyzer)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Smart-Exam-Form&theme=shades-of-purple)](https://github.com/soumya997/Smart-Exam-Form)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=ERA5-Land-Data-Analysis-Model-Building-PyTorch&theme=shades-of-purple)](https://github.com/soumya997/ERA5-Land-Data-Analysis-Model-Building-PyTorch)
+[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=Music-Generation-Using-Deep-Learning&theme=shades-of-purple)](https://github.com/soumya997/Music-Generation-Using-Deep-Learning)[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=SIIM-ISIC-Melanoma-classification-Kaggle-challenge&theme=shades-of-purple)](https://github.com/soumya997/SIIM-ISIC-Melanoma-classification-Kaggle-challenge)[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=Face-Mask-Detection-Using-Deep-Learning&theme=shades-of-purple)](https://github.com/soumya997/Face-Mask-Detection-Using-Deep-Learning)[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=Joke-Generation-Using-MinGPT-with-tensorflow-2.0&theme=shades-of-purple)](https://github.com/soumya997/Joke-Generation-Using-MinGPT-with-tensorflow-2.0)[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=Virtual-Doc&theme=shades-of-purple)](https://github.com/soumya997/Virtual-Doc)[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=Resume-analyzer&theme=shades-of-purple)](https://github.com/soumya997/Resume-analyzer)[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=Smart-Exam-Form&theme=shades-of-purple)](https://github.com/soumya997/Smart-Exam-Form)[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=ERA5-Land-Data-Analysis-Model-Building-PyTorch&theme=shades-of-purple)](https://github.com/soumya997/ERA5-Land-Data-Analysis-Model-Building-PyTorch)
 
-
+<!-- https://github-readme-stats-nine-sandy.vercel.app -->
 </div>
 
 # Connect with Me:
