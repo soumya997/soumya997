@@ -68,7 +68,20 @@ This is **Soumyadip Sarkar** currently in 4th year pursuing my bachelors degree 
 
 <div align=center>
 
-[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=Music-Generation-Using-Deep-Learning&theme=shades-of-purple)](https://github.com/soumya997/Music-Generation-Using-Deep-Learning)[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=SIIM-ISIC-Melanoma-classification-Kaggle-challenge&theme=shades-of-purple)](https://github.com/soumya997/SIIM-ISIC-Melanoma-classification-Kaggle-challenge)[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=Face-Mask-Detection-Using-Deep-Learning&theme=shades-of-purple)](https://github.com/soumya997/Face-Mask-Detection-Using-Deep-Learning)[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=Joke-Generation-Using-MinGPT-with-tensorflow-2.0&theme=shades-of-purple)](https://github.com/soumya997/Joke-Generation-Using-MinGPT-with-tensorflow-2.0)[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=Virtual-Doc&theme=shades-of-purple)](https://github.com/soumya997/Virtual-Doc)[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=Resume-analyzer&theme=shades-of-purple)](https://github.com/soumya997/Resume-analyzer)[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=Smart-Exam-Form&theme=shades-of-purple)](https://github.com/soumya997/Smart-Exam-Form)[![ReadMe Card](https://github-readme-stats-nine-sandy.vercel.app/api/pin/?username=soumya997&repo=ERA5-Land-Data-Analysis-Model-Building-PyTorch&theme=shades-of-purple)](https://github.com/soumya997/ERA5-Land-Data-Analysis-Model-Building-PyTorch)
+<p align="left">
+  <a href="https://github.com/soumya997/Music-Generation-Using-Deep-Learning"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Music-Generation-Using-Deep-Learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Music-Generation-Using-Deep-Learning"></a>
+  <a href="https://github.com/soumya997/SIIM-ISIC-Melanoma-classification-Kaggle-challenge"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=SIIM-ISIC-Melanoma-classification-Kaggle-challenge&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="SIIM-ISIC-Melanoma-classification-Kaggle-challenge"></a>
+  <a href="https://github.com/soumya997/Face-Mask-Detection-Using-Deep-Learning"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Face-Mask-Detection-Using-Deep-Learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Face-Mask-Detection-Using-Deep-Learning"></a>
+  <a href="https://github.com/soumya997/Joke-Generation-Using-MinGPT-with-tensorflow-2.0"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=soumya997&repo=Joke-Generation-Using-MinGPT-with-tensorflow-2.0&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Joke-Generation-Using-MinGPT-with-tensorflow-2.0"></a>
+  <a href="https://github.com/soumya997/Virtual-Doc"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Virtual-Doc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Virtual-Doc"></a>
+  <a href="https://github.com/soumya997/Resume-analyzer"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Resume-analyzer&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Resume-analyzer"></a>
+ <a href="https://github.com/soumya997/ERA5-Land-Data-Analysis-Model-Building-PyTorch"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=ERA5-Land-Data-Analysis-Model-Building-PyTorch&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ERA5-Land-Data-Analysis-Model-Building-PyTorch"></a>
+ <a href="https://github.com/soumya997/Smart-Exam-Form"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Smart-Exam-Form&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Smart-Exam-Form"></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/soumya997?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
 <!-- https://github-readme-stats-nine-sandy.vercel.app -->
 </div>
@@ -85,4 +98,3 @@ This is **Soumyadip Sarkar** currently in 4th year pursuing my bachelors degree 
 [![Gmail](https://img.shields.io/badge/-soumyadip-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:soumya997.sarkar@gmail.com)
 
 <br>
-
