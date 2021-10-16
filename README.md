@@ -58,8 +58,8 @@ This is **Soumyadip Sarkar** currently in 4th year pursuing my bachelors degree 
 # Github Activity📊:
 
 <a href="https://github.com/soumya997">
-  <img height="180em" src="https://github-readme-stats-nine-sandy.vercel.app/api?username=soumya997&theme=shades-of-purple&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-nine-sandy.vercel.app/api/top-langs/?username=soumya997&theme=shades-of-purple&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-nine-sandy.vercel.app/api?username=soumya997&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+  <img height="180em" src="https://github-readme-stats-nine-sandy.vercel.app/api/top-langs/?username=soumya997&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&layout=compact" />
 </a>
 
 
