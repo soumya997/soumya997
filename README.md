@@ -2,7 +2,7 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <br>
 
-# Hi there 👋😃
+# Howdy <img src='https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif' alt='hi' width=50px/>
 
 
 This is **Soumyadip Sarkar** currently in 4th year pursuing my bachelors degree in Electrical Engineering from Institute of Engineering and Management, Kolkata. I want to be a <strong><em>Data Scientist/ML/DL Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
