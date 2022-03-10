@@ -1,4 +1,4 @@
-<h2 align="center">नमस्ते (Namaste)🙏🏻, I'm Soumyadip Sarkar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2 align="center">[REMINDER: UPDATE] नमस्ते (Namaste)🙏🏻, I'm Soumyadip Sarkar!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 
 # Howdy <img src='https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif' alt='hi' width=50px/>
