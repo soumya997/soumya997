@@ -4,7 +4,7 @@
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" /> -->
 
-I’m a final year Undergrad student at IEM, Kolkata w/ an Electrical Engineering Major, While I always had my heart set on ML.
+I’m a final year Undergrad student at IEM, Kolkata w/ an Electrical Engineering Major, while I always had my heart set on ML.
 
 I'm interested in both research and applied aspects of Machine Learning and Deep Learning, mainly in the field of computer vision [moderate knowledge in NLP].
 
