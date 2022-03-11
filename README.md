@@ -31,7 +31,7 @@ I'm very passionate about the AV [Autonomous Vehicle] industry and currently try
 ---
  
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Github Activity📊:
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Github Activit:
 
 <a href="https://github.com/soumya997">
   <img height="180em" src="https://github-readme-stats-eight-nu-91.vercel.app/api?username=soumya997&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" /> <img height="180em" src="https://github-readme-stats-eight-nu-91.vercel.app/api/top-langs/?username=soumya997&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&layout=compact" />
@@ -41,7 +41,7 @@ I'm very passionate about the AV [Autonomous Vehicle] industry and currently try
 
 </p>
 
-> # My Projects🌟:
+#  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> My Project:
 
 <div align=center>
 
@@ -59,11 +59,11 @@ I'm very passionate about the AV [Autonomous Vehicle] industry and currently try
 <!-- https://github-readme-stats-nine-sandy.vercel.app -->
 </div>
 
-> ## 📌 I am currently working on:
->> - [Kaggle PogChamp2](https://github.com/soumya997/kaggle-PogChamp2)
->> - Preparing for interviews ! ! !
+## 📌 I am currently working on:
+> - [Kaggle PogChamp2](https://github.com/soumya997/kaggle-PogChamp2)
+> - Preparing for interviews :| 
 
-# Connect with Me:
+#  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Connect with Me:
 
 > ### [🛄LinkedIn](https://www.linkedin.com/in/soumyadip-sarkar/) | [#️⃣Twitter](https://twitter.com/somuSan_) | [🤖Kaggle](https://www.kaggle.com/soumya9977) | [🌏Website/cv/blog](https://bit.ly/vcvsomusan)
 
