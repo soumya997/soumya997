@@ -59,13 +59,13 @@ I'm very passionate about the AV [Autonomous Vehicle] industry and currently try
 <!-- https://github-readme-stats-nine-sandy.vercel.app -->
 </div>
 
-## 📌 I am currently working on:
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently working on:
 > - [Kaggle PogChamp2](https://github.com/soumya997/kaggle-PogChamp2)
 > - Preparing for interviews :| 
 
-#  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Connect with Me:
+#  <img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif" width="30"> Connect with Me:
 
-> ### [🛄LinkedIn](https://www.linkedin.com/in/soumyadip-sarkar/) | [#️⃣Twitter](https://twitter.com/somuSan_) | [🤖Kaggle](https://www.kaggle.com/soumya9977) | [🌏Website/cv/blog](https://bit.ly/vcvsomusan)
+### [🛄LinkedIn](https://www.linkedin.com/in/soumyadip-sarkar/) | [#️⃣Twitter](https://twitter.com/somuSan_) | [🤖Kaggle](https://www.kaggle.com/soumya9977) | [🌏Website/cv/blog](https://bit.ly/vcvsomusan)
 
 <br>
 
