@@ -60,7 +60,7 @@ I'm very passionate about the AV [Autonomous Vehicle] industry and currently try
 </div>
 
 > ## 📌 I am currently working on:
->> - [Kaggle PogChamp2](https://www.kaggle.com/c/kaggle-pog-series-s01e02)
+>> - [Kaggle PogChamp2](https://github.com/soumya997/kaggle-PogChamp2)
 >> - Preparing for interviews ! ! !
 
 # Connect with Me:
