@@ -26,8 +26,9 @@ I'm very passionate about the AV [Autonomous Vehicle] industry and currently try
 
 > ### 💡 **I am actively looking for research opportunities in the field of AV or computer vision in general.**
 
+<br>
 
- 
+---
  
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Github Activity📊:
