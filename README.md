@@ -8,6 +8,8 @@ I’m a final year Undergrad student at IEM, Kolkata w/ an Electrical Engineerin
 
 I'm interested in both research and applied aspects of Machine Learning and Deep Learning, mainly in the field of computer vision [moderate knowledge in NLP].
 
+I'm very passionate about the AV [Autonomous Vehicle] industry and currently trying to grasp some of the concepts associated with the field.
+
 I am active on a site called Kaggle, participated in a few Kaggle competitions. I'm Notebook and Discussion Expert there. 
 
 Participated in two competitions,
@@ -20,7 +22,6 @@ During my internship at IIT, KGP I managed to publish a paper on unsupervised se
 
 Link: [*https://ieeexplore.ieee.org/document/9581380*](https://ieeexplore.ieee.org/document/9581380)
 
-I'm very passionate about the AV [Autonomous Vehicle] industry and currently trying to grasp some of the concepts associated with the field.
 
 <br>
 
