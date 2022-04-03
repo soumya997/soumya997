@@ -67,7 +67,7 @@ Link: [*https://ieeexplore.ieee.org/document/9581380*](https://ieeexplore.ieee.o
 
 #  <img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif" width="30"> Connect with Me:
 
-### [🥑LinkedIn](https://www.linkedin.com/in/soumyadip-sarkar/) | [#️🍤Twitter](https://twitter.com/somuSan_) | [🍡Kaggle](https://www.kaggle.com/soumya9977) | [🧁Website/cv/blog](https://bit.ly/vcvsomusan)
+### [🥑LinkedIn](https://www.linkedin.com/in/soumyadip-sarkar/) | [🍤Twitter](https://twitter.com/somuSan_) | [🍡Kaggle](https://www.kaggle.com/soumya9977) | [🧁Website/cv/blog](https://bit.ly/vcvsomusan)
 
 <br>
 
