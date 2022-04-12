@@ -62,7 +62,8 @@ Link: [*https://ieeexplore.ieee.org/document/9581380*](https://ieeexplore.ieee.o
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently working on:
-> - [Autonomous Vehicle FYP](https://github.com/khanfarhan10/Autonomous-Vehicle-FYP)
+> - [ ] [GANTree](https://github.com/maharshi95/GANTree)
+> - [ ] [elastic infogan](https://utkarshojha.github.io/elastic-infogan/)
 <!-- > - Preparing for interviews :|  -->
 
 #  <img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif" width="30"> Connect with Me:
