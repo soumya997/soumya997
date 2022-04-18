@@ -15,13 +15,13 @@ I am active on a site called Kaggle, participated in a few Kaggle competitions. 
 
 Participated in two competitions,
 
-1. [*Sartorius - Cell Instance Segmentation [TOP 15%]*](https://www.kaggle.com/c/sartorius-cell-instance-segmentation/leaderboard)
+1. [*Sartorius - Cell Instance Segmentation [TOP 15%]*](https://www.kaggle.com/c/sartorius-cell-instance-segmentation/leaderboard) [`GITHUB`](https://github.com/soumya997/kaggle-Sartorius-Experimentations)
 
-2. [*TensorFlow - Great Barrier Reef [57th - TOP 3%, silver medal]*](https://www.kaggle.com/c/tensorflow-great-barrier-reef/leaderboard)
+2. [*TensorFlow - Great Barrier Reef [57th - TOP 3%, silver medal]*](https://www.kaggle.com/c/tensorflow-great-barrier-reef/leaderboard) [`GITHUB`](https://github.com/soumya997/kaggle-GBR-Experimentations)
 
-During my internship at IIT, KGP I managed to publish a paper on unsupervised segmentation at ICORT, 2021, IEEE. 
+During my internship at IIT, KGP I managed to publish a paper on unsupervised segmentation at [ICORT](https://www.drdo.gov.in/icort-21), 2021, IEEE. 
 
-Link: [*https://ieeexplore.ieee.org/document/9581380*](https://ieeexplore.ieee.org/document/9581380)
+Link: [*https://ieeexplore.ieee.org/document/9581380*](https://ieeexplore.ieee.org/document/9581380) [`PAPER`](https://github.com/soumya997/doodled-paper/blob/master/unsupervised/2021128313.pdf) [`SLIDES`](https://docs.google.com/presentation/d/12WryC2OwF4whFzB0TOb0f8Ct8_zjZloTcLDyiOQ9ig4/edit?usp=sharing)
 
 
 <br>
