@@ -64,6 +64,7 @@ Link: [*https://ieeexplore.ieee.org/document/9581380*](https://ieeexplore.ieee.o
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently working on:
 > - [ ] [GANTree](https://github.com/maharshi95/GANTree)
 > - [ ] [elastic infogan](https://utkarshojha.github.io/elastic-infogan/)
+> - [ ] [unsw-gan-project](https://github.com/soumya997/unsw-gan-project)
 <!-- > - Preparing for interviews :|  -->
 
 #  <img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif" width="30"> Connect with Me:
