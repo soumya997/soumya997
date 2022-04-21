@@ -21,7 +21,7 @@ Participated in two competitions,
 
 During my internship at IIT, KGP I managed to publish a paper on unsupervised segmentation at [ICORT](https://www.drdo.gov.in/icort-21), 2021, IEEE. 
 
-Link: [*https://ieeexplore.ieee.org/document/9581380*](https://ieeexplore.ieee.org/document/9581380) [`PAPER`](https://github.com/soumya997/doodled-paper/blob/master/unsupervised/2021128313.pdf) [`SLIDES`](https://docs.google.com/presentation/d/12WryC2OwF4whFzB0TOb0f8Ct8_zjZloTcLDyiOQ9ig4/edit?usp=sharing)
+Link: [*https://ieeexplore.ieee.org/document/9581380*](https://ieeexplore.ieee.org/document/9581380) [`PDF`](https://github.com/soumya997/doodled-paper/blob/master/unsupervised/2021128313.pdf) [`SLIDES`](https://docs.google.com/presentation/d/12WryC2OwF4whFzB0TOb0f8Ct8_zjZloTcLDyiOQ9ig4/edit?usp=sharing)
 
 
 <br>
