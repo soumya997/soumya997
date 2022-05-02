@@ -69,9 +69,8 @@ Link: [*https://ieeexplore.ieee.org/document/9581380*](https://ieeexplore.ieee.o
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently working on:
-> - [ ] [GANTree](https://github.com/maharshi95/GANTree)
-> - [ ] [elastic infogan](https://github.com/utkarshojha/elastic-infogan)
-> - [ ] [NEMGAN-P](https://github.com/NEMGAN/NEMGAN-P/blob/master/nemganp_fmnist_5.py)
+> - [ ] [GNGAN-PyTorch](https://github.com/basiclab/GNGAN-PyTorch)
+> - [ ] [PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN)
 > - [ ] [unsw-gan-project](https://github.com/soumya997/unsw-gan-project)
 <!-- > - Preparing for interviews :|  -->
 
