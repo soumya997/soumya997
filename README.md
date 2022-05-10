@@ -26,7 +26,7 @@ Link: [*https://ieeexplore.ieee.org/document/9581380*](https://ieeexplore.ieee.o
 
 <br>
 
-> ### 💡 **I am actively looking for research opportunities in the field of AV or computer vision in general.**
+> ### 💡 **I am actively looking for research opportunities in the field of Autonomous vehicle [AV] or computer vision in general.**
 
 <br>
 
