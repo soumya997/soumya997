@@ -72,7 +72,10 @@ Link: [*https://ieeexplore.ieee.org/document/9581380*](https://ieeexplore.ieee.o
 
 > - [ ] Preparing for interviews
 > - [ ] [Going through UCF cv 2012](https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm)
-> 📌 [ml-boilerplate](https://github.com/soumya997/ml-boilerplate)
+
+
+📌 [`ml-boilerplate`](https://github.com/soumya997/ml-boilerplate)
+
 #  <img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif" width="30"> Connect with Me:
 
 ### [`🥑LinkedIn`](https://www.linkedin.com/in/soumyadip-sarkar/)  [`🍤Twitter`](https://twitter.com/somuSan_)  [`🍡Kaggle`](https://www.kaggle.com/soumya9977)  [`🧁Website`](https://bit.ly/vcvsomusan)  [`🍥Resume`](https://bit.ly/resume_somusan)  [`🍻Blog`](https://soumya997.github.io/)
