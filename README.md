@@ -69,37 +69,11 @@ Link: [*https://ieeexplore.ieee.org/document/9581380*](https://ieeexplore.ieee.o
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently working on:
-> - [ ] [GNGAN-PyTorch](https://github.com/basiclab/GNGAN-PyTorch)
-> - [ ] [PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN)
-> - [ ] [unsw-gan-project](https://github.com/soumya997/unsw-gan-project)
-<!-- > - Preparing for interviews :|  -->
 
+> - [ ] Preparing for interviews
+> - [ ] [Going through UCF cv 2012](https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm)
+> 
 #  <img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif" width="30"> Connect with Me:
 
-<!-- ### [`🥑LinkedIn`](https://www.linkedin.com/in/soumyadip-sarkar/) | [`🍤Twitter`](https://twitter.com/somuSan_) | [`🍡Kaggle`](https://www.kaggle.com/soumya9977) | [`🧁Website`](https://bit.ly/vcvsomusan) | [`🍥Resume`](https://bit.ly/resume_somusan) | [`🍻Blog`](https://soumya997.github.io/)
- -->
 ### [`🥑LinkedIn`](https://www.linkedin.com/in/soumyadip-sarkar/)  [`🍤Twitter`](https://twitter.com/somuSan_)  [`🍡Kaggle`](https://www.kaggle.com/soumya9977)  [`🧁Website`](https://bit.ly/vcvsomusan)  [`🍥Resume`](https://bit.ly/resume_somusan)  [`🍻Blog`](https://soumya997.github.io/)
-
-<br>
-
-<!-- <a href="https://twitter.com/somuSan_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/somuSan_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@somuSan_"></a>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/soumya997?color=green&logo=github&style=for-the-badge">
-<a href="https://www.linkedin.com/in/soumyadip-sarkar-173901183/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xtenzq" width="22px" />
-[![Kaggle](https://img.shields.io/badge/-soumyadip-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/soumya9977)](https://www.kaggle.com/soumya9977)
-[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@soumya997.sarkar)
-[![Gmail](https://img.shields.io/badge/-soumyadip-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:soumya997.sarkar@gmail.com)
-
-<br> -->
- 
-<!-- Main Contact me -->
-<!--  <p align="left">
-<a href="https://twitter.com/somuSan_" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/soumyadip-sarkar/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.twitch.tv/somusan" target="_blank"><img height="30" src="7857165_twitch_stream_streaming_platform_sub_icon.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCej1NaGtqV5vBFYtMgZAGdg" target="_blank"><img height="30" src="6214533_logo_youtube_icon.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/soumya9977" target="_blank"><img height="30" src="4519136_kaggle_icon.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pypi.org/user/somuSan/" target="_blank"><img height="30" src="https://pbs.twimg.com/profile_images/909757546063323137/-RIWgodF_400x400.jpg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://soumya997.github.io/vcv/" target="_blank"><img height="30" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-portfolio-advertising-kiranshastry-lineal-color-kiranshastry.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-</p> -->
 
