@@ -2,7 +2,7 @@
 
 # Howdy <img src='https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif' alt='hi' width=50px/>
 
-<img src="https://media.giphy.com/media/iDBaIpm3LcShDrSjwD/giphy.gif" width="400px" align="right">
+
 
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" /> -->
@@ -14,6 +14,8 @@ I'm interested in both research and applied aspects of Machine Learning and Deep
 I'm very passionate about the AV [Autonomous Vehicle] industry and currently trying to grasp some of the concepts associated with the field.
 
 I am active on a site called Kaggle, participated in a few Kaggle competitions. I'm Notebook and Discussion Expert there. 
+
+<img src="https://media.giphy.com/media/iDBaIpm3LcShDrSjwD/giphy.gif" width="400px" align="right">
 
 Participated in two competitions,
 
