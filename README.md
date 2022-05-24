@@ -2,9 +2,8 @@
 
 # Howdy <img src='https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif' alt='hi' width=50px/>
 
-<!-- <img src="https://media.giphy.com/media/iDBaIpm3LcShDrSjwD/giphy.gif" width="400px" align="right">
-<img src="https://i.ibb.co/hm8Bw9f/oie-28233854-Ml-SToqr-T.gif" width="200px" align="left"> -->
-<img align='right' src='https://i.ibb.co/5Rk9ddV/download.gif' width='200'>
+<img src="https://media.giphy.com/media/iDBaIpm3LcShDrSjwD/giphy.gif" width="400px" align="right">
+
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" /> -->
 
