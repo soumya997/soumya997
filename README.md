@@ -2,7 +2,7 @@
 
 # Howdy <img src='https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif' alt='hi' width=50px/>
 
-<img src="https://media.giphy.com/media/GqOLke6LDbgmBJCzvm/giphy.gif" width="900px" align="right">
+<img src="https://media.giphy.com/media/GqOLke6LDbgmBJCzvm/giphy.gif" width="1000px" align="right">
 
 
 
