@@ -30,6 +30,8 @@ Link: [*https://ieeexplore.ieee.org/document/9581380*](https://ieeexplore.ieee.o
 
 I also have worked under [Tanmoy Dam](https://www.linkedin.com/in/tanmoy-dam-190ba534/), a Ph.D. student from UNSW, Sydney on prior learning for GAN, generative clustering, and generative classification. 
 
+In my free time I mimic random pictures from random artists from twitter, I am a NOOB, trying to learn more about the space. The article that got me into this was [Patterns of Randomness](https://ayandas.me/blog-tut/2020/04/15/patterns-of-randomness.html) by [@dasayan05](https://github.com/dasayan05). Check out few of my p5.js and python arts here -> [`Randomized Amend`](https://soumya997.notion.site/Randomized-Amend-4dbd6f5e4dd34de3b4203421dce07014)
+
 <br>
 
 > ### 💡 **I am actively looking for research opportunities in the field of Autonomous vehicle [AV] or computer vision in general.**
@@ -84,5 +86,5 @@ I also have worked under [Tanmoy Dam](https://www.linkedin.com/in/tanmoy-dam-190
 
 #  <img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif" width="30"> Connect with Me:
 
-### [`🥑LinkedIn`](https://www.linkedin.com/in/soumyadip-sarkar/)  [`🍤Twitter`](https://twitter.com/somuSan_)  [`🍡Kaggle`](https://www.kaggle.com/soumya9977)  [`🧁Website`](https://bit.ly/vcvsomusan)  [`🍥Resume`](https://bit.ly/resume_somusan)  [`🍻Blog`](https://soumya997.github.io/)
+### [`🥑LinkedIn`](https://www.linkedin.com/in/soumyadip-sarkar/)  [`🍤Twitter`](https://twitter.com/somuSan_)  [`🍡Kaggle`](https://www.kaggle.com/soumya9977)  [`🧁Website`](https://bit.ly/vcvsomusan)  [`🍥Resume`](https://bit.ly/resume_somusan)  [`🍻Blog`](https://soumya997.github.io/) [`🎨 Randomized Amend`](https://soumya997.notion.site/Randomized-Amend-4dbd6f5e4dd34de3b4203421dce07014)
 
