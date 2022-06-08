@@ -2,7 +2,7 @@
 
 # Howdy <img src='https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif' alt='hi' width=10px/>
 
-<img src="https://media.giphy.com/media/GqOLke6LDbgmBJCzvm/giphy.gif" width="100px" align="right">
+<img src="https://media.giphy.com/media/iDBaIpm3LcShDrSjwD/giphy.gif" width="100px" align="right">
 
 
 
@@ -28,6 +28,7 @@ During my internship at IIT, KGP I managed to publish a paper on unsupervised se
 
 Link: [*https://ieeexplore.ieee.org/document/9581380*](https://ieeexplore.ieee.org/document/9581380) [`PDF`](https://github.com/soumya997/doodled-paper/blob/master/unsupervised/2021128313.pdf) [`SLIDES`](https://docs.google.com/presentation/d/12WryC2OwF4whFzB0TOb0f8Ct8_zjZloTcLDyiOQ9ig4/edit?usp=sharing)
 
+I also have worked under [Tanmoy Dam](https://www.linkedin.com/in/tanmoy-dam-190ba534/), a Ph.D. student from UNSW, Sydney on prior learning for GAN, generative clustering, and generative classification. 
 
 <br>
 
