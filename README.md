@@ -32,12 +32,20 @@ I also have worked under [Tanmoy Dam](https://www.linkedin.com/in/tanmoy-dam-190
 
 In my free time I mimic random pictures from random artists from twitter, I am a NOOB, trying to learn more about the space. The article that got me into this was [Patterns of Randomness](https://ayandas.me/blog-tut/2020/04/15/patterns-of-randomness.html) by [@dasayan05](https://github.com/dasayan05). Check out few of my p5.js and python arts here -> [`Randomized Amend`](https://soumya997.notion.site/Randomized-Amend-4dbd6f5e4dd34de3b4203421dce07014)
 
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently working on:
+
+> - [ ] figure out how to add custom scenario in scenario runner [deadline: 21/07 to 22/07]
+> - [ ] log data from scenario runner [deadline: 23/07 to 25/07]
+
+
+<!--
 <br>
 
 > ### 💡 **I am actively looking for research opportunities in the field of Autonomous vehicle [AV] or computer vision in general.**
 
 <br>
-
+-->
 ---
  
 
@@ -76,10 +84,7 @@ In my free time I mimic random pictures from random artists from twitter, I am a
 <!-- https://github-readme-stats-nine-sandy.vercel.app -->
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently working on:
 
-> - [ ] Preparing for interviews
-> - [ ] [Going through UCF cv 2012](https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm)
 
 
 📌 [`ml-boilerplate`](https://github.com/soumya997/ml-boilerplate)
