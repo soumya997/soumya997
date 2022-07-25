@@ -35,8 +35,7 @@ In my free time I mimic random pictures from random artists from twitter, I am a
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently working on:
 
-> - [ ] figure out how to add custom scenario in scenario runner [deadline: 21/07 to 22/07]
-> - [ ] log data from scenario runner [deadline: 23/07 to 25/07]
+
 > - [`ALIVE_repo`](https://github.com/soumya997/alive-test) |  [`HuBMAP-kaggle`](https://github.com/soumya997/HuBMAP-kaggle)
 
 <!--
