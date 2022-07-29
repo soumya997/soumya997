@@ -38,6 +38,10 @@ In my free time I mimic random pictures from random artists from twitter, I am a
 
 > - [`ALIVE_repo`](https://github.com/soumya997/alive-test) |  [`HuBMAP-kaggle`](https://github.com/soumya997/HuBMAP-kaggle)
 
+
+### [`🧁Website`](https://bit.ly/vcvsomusan)  [`🍥Resume`](https://bit.ly/resume_somusan)  [`🍻Blog`](https://soumya997.github.io/) [`🎨 Randomized Amend`](https://soumya997.notion.site/Randomized-Amend-4dbd6f5e4dd34de3b4203421dce07014)
+ 
+ 
 <!--
 <br>
 
@@ -90,5 +94,5 @@ In my free time I mimic random pictures from random artists from twitter, I am a
 
 #  <img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif" width="30"> Connect with Me:
 
-### [`🥑LinkedIn`](https://www.linkedin.com/in/soumyadip-sarkar/)  [`🍤Twitter`](https://twitter.com/somuSan_)  [`🍡Kaggle`](https://www.kaggle.com/soumya9977)  [`🧁Website`](https://bit.ly/vcvsomusan)  [`🍥Resume`](https://bit.ly/resume_somusan)  [`🍻Blog`](https://soumya997.github.io/) [`🎨 Randomized Amend`](https://soumya997.notion.site/Randomized-Amend-4dbd6f5e4dd34de3b4203421dce07014)
+### [`🥑LinkedIn`](https://www.linkedin.com/in/soumyadip-sarkar/)  [`🍤Twitter`](https://twitter.com/somuSan_)  [`🍡Kaggle`](https://www.kaggle.com/soumya9977) 
 
