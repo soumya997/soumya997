@@ -36,11 +36,13 @@ In my free time I mimic random pictures from random artists from twitter, I am a
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently working on:
 
 
-> - [`ALIVE_repo`](https://github.com/soumya997/alive-test) |  [`HuBMAP-kaggle`](https://github.com/soumya997/HuBMAP-kaggle)
+📌 [`ml-boilerplate`](https://github.com/soumya997/ml-boilerplate) | [`ALIVE_repo`](https://github.com/soumya997/alive-test) |  [`HuBMAP-kaggle`](https://github.com/soumya997/HuBMAP-kaggle)
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Check out My resume, blog & stuff :
 
-### [`🧁Website`](https://bit.ly/vcvsomusan)  [`🍥Resume`](https://bit.ly/resume_somusan)  [`🍻Blog`](https://soumya997.github.io/) [`🎨 Randomized Amend`](https://soumya997.notion.site/Randomized-Amend-4dbd6f5e4dd34de3b4203421dce07014)
- 
+### [`🧁Website`](https://bit.ly/vcvsomusan)  [`🍥Resume`](https://bit.ly/vcvsomusanV2)  [`🍻Blog`](https://soumya997.github.io/) [`🎨 Randomized Amend`](https://soumya997.notion.site/Randomized-Amend-4dbd6f5e4dd34de3b4203421dce07014) 
+
+<!-- https://bit.ly/resume_somusan -->
  
 <!--
 <br>
@@ -90,7 +92,7 @@ In my free time I mimic random pictures from random artists from twitter, I am a
 
 
 
-📌 [`ml-boilerplate`](https://github.com/soumya997/ml-boilerplate)
+
 
 #  <img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif" width="30"> Connect with Me:
 
