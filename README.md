@@ -38,7 +38,7 @@ In my free time I mimic random pictures from random artists from twitter, I am a
 
 📌 [`ml-boilerplate`](https://github.com/soumya997/ml-boilerplate) | [`ALIVE_repo`](https://github.com/soumya997/alive-test) |  [`HuBMAP-kaggle`](https://github.com/soumya997/HuBMAP-kaggle)
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Check out My resume, blog & stuff :
+## <img src="https://media.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif" width="30"> Check out My resume, blog & stuff :
 
 ### [`🧁Website`](https://bit.ly/vcvsomusan)  [`🍥Resume`](https://bit.ly/vcvsomusanV2)  [`🍻Blog`](https://soumya997.github.io/) [`🎨 Randomized Amend`](https://soumya997.notion.site/Randomized-Amend-4dbd6f5e4dd34de3b4203421dce07014) 
 
