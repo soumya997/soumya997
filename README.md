@@ -36,7 +36,7 @@ In my free time I mimic random pictures from random artists from twitter, I am a
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently working on:
 
 
-📌 [`ml-boilerplate`](https://github.com/soumya997/ml-boilerplate) | [`ALIVE_repo`](https://github.com/soumya997/alive-test) |  [`HuBMAP-kaggle`](https://github.com/soumya997/HuBMAP-kaggle)
+📌 [`ml-boilerplate`](https://github.com/soumya997/ml-boilerplate) | [`ALIVE_repo`](https://github.com/soumya997/alive-test)
 
 ## <img src="https://media.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif" width="30"> Check out My resume, blog & stuff :
 
