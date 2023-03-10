@@ -19,11 +19,11 @@ I am active on a site called Kaggle, participated in a few Kaggle competitions. 
 
 <br>
 
-> **Participated in two competitions,**
+> **My kaggle competitions achievements,**
 
-1. [*Sartorius - Cell Instance Segmentation [TOP 15%]*](https://www.kaggle.com/c/sartorius-cell-instance-segmentation/leaderboard) [`GITHUB`](https://github.com/soumya997/kaggle-Sartorius-Experimentations)
+1. [*Sartorius - Cell Instance Segmentation [TOP 15%, No medal]*](https://www.kaggle.com/c/sartorius-cell-instance-segmentation/leaderboard) [`GITHUB`](https://github.com/soumya997/kaggle-Sartorius-Experimentations)
 
-2. [*TensorFlow - Great Barrier Reef [57th - TOP 3%, silver medal]*](https://www.kaggle.com/c/tensorflow-great-barrier-reef/leaderboard) [`GITHUB`](https://github.com/soumya997/kaggle-GBR-Experimentations)
+2. [*TensorFlow - Great Barrier Reef [57th - TOP 3%, Silver medal]*](https://www.kaggle.com/c/tensorflow-great-barrier-reef/leaderboard) [`GITHUB`](https://github.com/soumya997/kaggle-GBR-Experimentations)
 
 3. [*HuBMAP + HPA - Hacking the Human Body [TOP 6%, Bronze Medal]*](https://www.kaggle.com/competitions/hubmap-organ-segmentation/leaderboard) [`GITHUB`](https://github.com/soumya997/HPA-HuBMAP-kaggle-solution)
 
