@@ -1,7 +1,7 @@
 > <center><h1>💡 I am actively looking for an opportunities in the field of  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; Computer Vision, Deep Learning.</h1></center> 
 
 
-# Howdy <img src='https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif' alt='hi' width=10px/>
+<!-- # Howdy <img src='https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif' alt='hi' width=10px/> -->
 
 <img src="https://media.giphy.com/media/iDBaIpm3LcShDrSjwD/giphy.gif" width="600px" align="right">
 
@@ -112,6 +112,7 @@ I am active on a site called Kaggle, participated in a few Kaggle competitions. 
 
 
 
-#  <img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif" width="30"> Connect with Me:
+<!-- #  <img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif" width="30"> Connect with Me: -->
+# Connect with Me:
 
-### [`Resume`](https://drive.google.com/file/d/1eRBboyIS5cMiPVHDv4FBc0coQzCGNghu/view?usp=sharing) |  [`Twitter`]()  |  [`Kaggle`](https://www.kaggle.com/soumya9977)  |  [`LinkedIn`](https://www.linkedin.com/in/soumyadip-sarkar/)  |  [`Twitter`](https://twitter.com/somuSan_)  | [`Gmail`](mailto:soumya997.sarkar@gmail.com)
+### [`Resume`](https://drive.google.com/file/d/1eRBboyIS5cMiPVHDv4FBc0coQzCGNghu/view?usp=sharing) |  [`Twitter`](https://twitter.com/somuSan_)  |  [`Kaggle`](https://www.kaggle.com/soumya9977)  |  [`LinkedIn`](https://www.linkedin.com/in/soumyadip-sarkar/)  |  [`Twitter`](https://twitter.com/somuSan_)  | [`Gmail`](mailto:soumya997.sarkar@gmail.com)
