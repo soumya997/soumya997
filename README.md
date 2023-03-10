@@ -19,7 +19,7 @@ I am active on a site called Kaggle, participated in a few Kaggle competitions. 
 
 <br>
 
-> **My kaggle competitions achievements,**
+> **My kaggle competitions experiences,**
 
 1. [*Sartorius - Cell Instance Segmentation [TOP 15%, No medal]*](https://www.kaggle.com/c/sartorius-cell-instance-segmentation/leaderboard) [`GITHUB`](https://github.com/soumya997/kaggle-Sartorius-Experimentations)
 
@@ -114,5 +114,4 @@ I am active on a site called Kaggle, participated in a few Kaggle competitions. 
 
 #  <img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif" width="30"> Connect with Me:
 
-### [`🥑LinkedIn`](https://www.linkedin.com/in/soumyadip-sarkar/)  [`🍤Twitter`](https://twitter.com/somuSan_)  [`🍡Kaggle`](https://www.kaggle.com/soumya9977)   [`🧁Website`](https://bit.ly/vcvsomusan)  [`🍥Resume`](https://bit.ly/vcvsomusanV2)  [`🍻Blog`](https://soumya997.github.io/) [`🎨 Randomized Amend`](https://soumya997.notion.site/Randomized-Amend-4dbd6f5e4dd34de3b4203421dce07014) 
-
+### [`Resume`](https://drive.google.com/file/d/1eFadQbFg66pH9gGx4PPcGvsB7oS5PB0F/view?usp=sharing) |  [`Kaggle`](https://www.kaggle.com/soumya9977)  |  [`LinkedIn`](https://www.linkedin.com/in/soumyadip-sarkar/)  |  [`Twitter`](https://twitter.com/somuSan_)  | [`Gmail`](mailto:soumya997.sarkar@gmail.com)
