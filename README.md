@@ -38,8 +38,11 @@ I am active on a site called Kaggle, participated in a few Kaggle competitions. 
 
 - During my *internship at IIT, KGP* I managed to publish a paper on unsupervised segmentation at [ICORT](https://www.drdo.gov.in/icort-21), 2021, IEEE. Also worked on landscape segmentation from satellite data.
 
-     - Link: [*https://ieeexplore.ieee.org/document/9581380*](https://ieeexplore.ieee.org/document/9581380) [`PDF`](https://github.com/soumya997/doodled-paper/blob/master/unsupervised/2021128313.pdf) [`SLIDES`](https://docs.google.com/presentation/d/12WryC2OwF4whFzB0TOb0f8Ct8_zjZloTcLDyiOQ9ig4/edit?usp=sharing)
-
+     - Link: [*A Novel Approach for Urban Unsupervised Segmentation Classification in SAR Polarimetry*](https://ieeexplore.ieee.org/document/9581380) [`PDF`](https://github.com/soumya997/doodled-paper/blob/master/unsupervised/2021128313.pdf) [`SLIDES`](https://docs.google.com/presentation/d/12WryC2OwF4whFzB0TOb0f8Ct8_zjZloTcLDyiOQ9ig4/edit?usp=sharing)
+     - My other papers: 
+          -  “[COVID-DeepNet: Deep Convolutional Neural Network Architecture Designed for Early Prognosis of COVID-19 Using
+               Post-anterior View of Chest X-Rays](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_5)”, IEM-ICDC 2021, Springer
+          -  "Analysis of Depth Sensing & Lane Detection Algorithms for Advanced Driver Assistance Systems", ICCM 2022 (Accepted)
 - I also have worked under [Tanmoy Dam](https://www.linkedin.com/in/tanmoy-dam-190ba534/), a Ph.D. student from UNSW, Sydney on *prior learning* for GAN, generative clustering, and generative classification. 
 
 > **Misc.**
