@@ -101,4 +101,4 @@ Blogs:
 <!-- #  <img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif" width="30"> Connect with Me: -->
 # Connect with Me:
 
-### [`Resume`](https://drive.google.com/file/d/1eRBboyIS5cMiPVHDv4FBc0coQzCGNghu/view?usp=sharing) |  [`Twitter`](https://twitter.com/somuSan_)  |  [`Kaggle`](https://www.kaggle.com/soumya9977)  |  [`LinkedIn`](https://www.linkedin.com/in/soumyadip-sarkar/)  |  [`Twitter`](https://twitter.com/somuSan_)  | [`Gmail`](mailto:soumya997.sarkar@gmail.com)
+### [`Resume`](https://drive.google.com/file/d/1KwIJePm4SJ8pRTDsCvUPbSjVrGYklTbW/view?usp=share_link) |  [`Twitter`](https://twitter.com/somuSan_)  |  [`Kaggle`](https://www.kaggle.com/soumya9977)  |  [`LinkedIn`](https://www.linkedin.com/in/soumyadip-sarkar/)  |  [`Twitter`](https://twitter.com/somuSan_)  | [`Gmail`](mailto:soumya997.sarkar@gmail.com)
