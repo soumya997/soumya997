@@ -40,7 +40,7 @@ Blogs:
 <!-- ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently working on: -->
 
 
-📌 [`ml-boilerplate`](https://github.com/soumya997/ml-boilerplate) | [`ALIVE_repo`](https://github.com/soumya997/alive-test)
+📌 [`ml-boilerplate`](https://github.com/soumya997/ml-boilerplate) | [`ALIVE_repo`](https://github.com/soumya997/alive-test) | [`Obsidian_notes`](https://github.com/soumya997/obsidian-notes)
 
 <!-- ## <img src="https://media.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif" width="30"> Check out My resume, blog & stuff :
 
