@@ -1,4 +1,4 @@
-> <center><h1>💡 I am actively looking for an opportunities in the field of  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; Computer Vision, Deep Learning.</h1></center> 
+> <center><h1>💡 I am actively looking for an opportunities in the field of  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; Computer Vision, Deep Learning.</h1></center> 
 
 <br>
 <br>
