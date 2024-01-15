@@ -28,7 +28,7 @@ I graduated on 2022, with a Bachelor of Technology (B. Tech) degree in the fiel
 **Email ID:** [soumya997.sarkar@gmail.com](mailto:soumya997.sarkar@gmail.com)  ;  [soumyadips@iiitd.ac.in](mailto:soumyadips@iiitd.ac.in)
 
 
-> **Kaggle Competitions:** 
+## **Kaggle Competitions:** 
 -   [*Sartorius - Cell Instance Segmentation [TOP 15%, No medal]*](https://www.kaggle.com/c/sartorius-cell-instance-segmentation/leaderboard) [`GITHUB`](https://github.com/soumya997/kaggle-Sartorius-Experimentations)
 -   [*TensorFlow - Great Barrier Reef [57th - TOP 3%, Silver medal]*](https://www.kaggle.com/c/tensorflow-great-barrier-reef/leaderboard) [`GITHUB`](https://github.com/soumya997/kaggle-GBR-Experimentations)
 -   [*HuBMAP + HPA - Hacking the Human Body [TOP 6%, Bronze Medal]*](https://www.kaggle.com/competitions/hubmap-organ-segmentation/leaderboard) [`GITHUB`](https://github.com/soumya997/HPA-HuBMAP-kaggle-solution)
