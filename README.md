@@ -51,7 +51,7 @@ I graduated on 2022, with a Bachelor of Technology (B. Tech) degree in the fiel
 
 > **Tages:** 
 > <br>
-> `Deep Learning`, `Computer Vision`, `Object detection`, `Segmentation`, `Vision Transformer`, `GAN`, `AV`, `Competitive ML` 
+> `Robotics`, `Deep Learning`, `Computer Vision`, `Localization`, `Object detection`, `Segmentation`, `Vision Transformer`, `GAN`, `AV`, `Competitive ML` 
 
 
 <!-- ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently working on: -->
