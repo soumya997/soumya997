@@ -24,21 +24,25 @@ Previously, I worked as a _Research Engineer_ at _Infosys CAI, IIIT Delhi_, focu
 I graduated on 2022, with a Bachelor of Technology (B. Tech) degree in the field of Electrical Engineering from IEM, Kolkata. During my graduation I worked as a research intern at _IIT KGP_ under Dr. Debashish Chakravarty for landscape segmentation on **satelite data** and at _Uni. of New South Wales(UNSW)_ under Dr. Tanmoy Dam worked on **prior learning for GAN**, generative clustering. I’m also a **Kaggle Competition Expert**, I predominantly participated in Object Detection and Segmentation competitions. 
 
 **Skills:** Python, C++, Carla, ROS, PyTorch, Linux, Git and W&B 
+
 **Email ID:** [soumya997.sarkar@gmail.com](mailto:soumya997.sarkar@gmail.com)  ;  [soumyadips@iiitd.ac.in](mailto:soumyadips@iiitd.ac.in)
 
 
-Kaggle Competitions: 
+> **Kaggle Competitions:** 
 -   [*Sartorius - Cell Instance Segmentation [TOP 15%, No medal]*](https://www.kaggle.com/c/sartorius-cell-instance-segmentation/leaderboard) [`GITHUB`](https://github.com/soumya997/kaggle-Sartorius-Experimentations)
 -   [*TensorFlow - Great Barrier Reef [57th - TOP 3%, Silver medal]*](https://www.kaggle.com/c/tensorflow-great-barrier-reef/leaderboard) [`GITHUB`](https://github.com/soumya997/kaggle-GBR-Experimentations)
 -   [*HuBMAP + HPA - Hacking the Human Body [TOP 6%, Bronze Medal]*](https://www.kaggle.com/competitions/hubmap-organ-segmentation/leaderboard) [`GITHUB`](https://github.com/soumya997/HPA-HuBMAP-kaggle-solution)
 
-Publications:
--   https://ieeexplore.ieee.org/document/9581380
--   https://link.springer.com/chapter/10.1007/978-981-19-1657-1_5
+## **Publications:**
+-   [A Novel Approach for Urban Unsupervised Segmentation Classification in SAR Polarimetry](https://ieeexplore.ieee.org/document/9581380)
+-   [COVID-DeepNet: Deep Convolutional Neural Network Architecture Designed for Early Prognosis of COVID-19 Using Post-anterior View of Chest X-Rays](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_5)
+- [Analysis of Depth Sensing and Lane Detection Algorithms for Advanced Driver Assistance Systems](https://link.springer.com/chapter/10.1007/978-3-031-25194-8_4)
 
-Blogs:
--   https://soumya997.github.io/
--  https://www.kaggle.com/soumya9977/notebooks
+## **Blogs:**
+-   [https://soumya997.github.io/](https://soumya997.github.io/)
+-  [https://www.kaggle.com/soumya9977/notebooks](https://www.kaggle.com/soumya9977/notebooks)
+-  [https://learnopencv.com/author/soumyadip/](https://learnopencv.com/author/soumyadip/)
+
 <!-- > **Misc.**
 
   In my free time I mimic random pictures from random artists from twitter, I am a NOOB, trying to learn more about the space. The article that got me into this was [Patterns of Randomness](https://ayandas.me/blog-tut/2020/04/15/patterns-of-randomness.html) by [@dasayan05](https://github.com/dasayan05). Check out few of my p5.js and python arts here -> [`Randomized Amend`](https://soumya997.notion.site/Randomized-Amend-4dbd6f5e4dd34de3b4203421dce07014)
