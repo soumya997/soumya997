@@ -1,8 +1,12 @@
-> <center><h1>💡 I am actively looking for an opportunities in the field of Computer Vision, Deep Learning.</h1></center> 
-> <center><h3> Please Contact Me if Found Suitable.</h3></center> 
+<!--
+
+<center><h1>💡 I am actively looking for an opportunities in the field of Computer Vision, Deep Learning.</h1></center> 
+<center><h3> Please Contact Me if Found Suitable.</h3></center> 
 
 <br>
 <br>
+
+-->
 
 <!-- # Howdy <img src='https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif' alt='hi' width=10px/> -->
 
