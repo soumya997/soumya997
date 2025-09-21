@@ -17,9 +17,9 @@
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" /> -->
 
  
-Hello I'm Soumyadip, I am presently working as a _Sr. Computer Vision Engineer_ at _Opencv University_.
+Hello I'm Soumyadip, I am presently working as a _Robotics Software Engineer_ at _Jio Reality Labs_ <img src='https://i.postimg.cc/bNd2fx2c/Reliance-Jio-Logo.png' width=30>.
 
-Previously, I worked as a _Research Engineer_ at _Infosys CAI, IIIT Delhi_, focusing on Perception for the [Autonomous Vehicle project ALIVE](https://sites.google.com/iiitd.ac.in/iiitd-alive/home), under the guidance of [Dr. Saket Anand](https://www.iiitd.edu.in/~anands/index.html) and [Dr. Sanjit Kaul](https://sites.google.com/view/sanjitkkaul/). My main contributions were to the **ADAS** stack, **HD-Map** generation pipeline, **Traffic Light Following** (DL & Planning), and the development of a **Virtual Testbed** for AV testing. 
+Previously, I was at OpenCV University, as Sr. Computer Vision Engineer, Working mostly on Robotics Perception and 3D Computer Vision / Graphics. Before that, I worked as a _Research Engineer_ at _Infosys CAI, IIIT Delhi_, focusing on Perception for the [Autonomous Vehicle project ALIVE](https://sites.google.com/iiitd.ac.in/iiitd-alive/home), under the guidance of [Dr. Saket Anand](https://www.iiitd.edu.in/~anands/index.html) and [Dr. Sanjit Kaul](https://sites.google.com/view/sanjitkkaul/). My main contributions were to the **ADAS** stack, **HD-Map** generation pipeline, **Traffic Light Following** (DL & Planning), and the development of a **Virtual Testbed** for AV testing. 
 
 I graduated on 2022, with a Bachelor of Technology (B. Tech) degree in the field of Electrical Engineering from IEM, Kolkata. During my graduation I worked as a research intern at _IIT KGP_ under Dr. Debashish Chakravarty for landscape segmentation on **satelite data** and at _Uni. of New South Wales(UNSW)_ under Dr. Tanmoy Dam worked on **prior learning for GAN**, generative clustering. I’m also a **Kaggle Competition Expert**, I predominantly participated in Object Detection and Segmentation competitions. 
 
